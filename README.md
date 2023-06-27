@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gilberto de Freitas
-- 👀 I'm interested in .Net Framework and web development technologies.
+- 👀 I'm interested in .Net and web development technologies.
 -  C#, Angular, React, .Net Core, JavaScript, CSS, SQL Server, MongoDB...
 
 <!---
